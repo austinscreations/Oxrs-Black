@@ -1,0 +1,3 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x05_Odd_Even,PinHeader_2x05_P2.54mm_Vertical,24.0,-31.0,0.0,top
+J2,KNX,4 pin jst 1.25 horizontal,62.3,-31.0,90.0,top
