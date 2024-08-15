@@ -46,8 +46,8 @@ L2,1uH 250mA 0805,L_0805_2012Metric,62.5,-83.8,-90.0,top
 PS1,LM2596S-3V3,LM2596S,29.9,-27.0,180.0,top
 Q1,MMBT3904,SOT-23,46.6,-96.4,-90.0,top
 Q2,MMBT3904,SOT-23,46.6,-92.4,90.0,top
-Qw1,qwiic_horizontal,qwiic vertical,24.9,-97.1,180.0,top
-Qw2,qwiic_horizontal,qwiic vertical,24.9,-104.8,0.0,top
+Qw1,qwiic_vertical,qwiic vertical,24.9,-97.1,180.0,top
+Qw2,qwiic_vertical,qwiic vertical,24.9,-104.8,0.0,top
 R1,10k,R_0603_1608Metric,61.5,-35.6,90.0,top
 R2,1k,R_0603_1608Metric,36.4,-51.1,180.0,top
 R3,1k,R_0603_1608Metric,36.4,-49.5,180.0,top

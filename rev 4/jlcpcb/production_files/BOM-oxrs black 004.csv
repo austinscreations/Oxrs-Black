@@ -2,7 +2,7 @@ Comment,Designator,Footprint,LCSC
 PGB1010603NR,"D7,D8",D_0603_1608Metric,C10677
 10uF 6.3V A TANT,C12,CP_EIA-3216-18_Kemet-A,C127946
 CH340G,U6,SOIC-16_3.9x9.9mm_P1.27mm,C14267
-qwiic_horizontal,"Qw1,Qw2",qwiic vertical,C145956
+qwiic_vertical,"Qw1,Qw2",qwiic vertical,C145961
 100nF,"C10,C15,C17,C18,C21,C3,C4,C5,C6",C_0603_1608Metric,C14663
 1uF,C9,C_0603_1608Metric,C15849
 20pF,"C22,C23,C7,C8",C_0603_1608Metric,C1648
